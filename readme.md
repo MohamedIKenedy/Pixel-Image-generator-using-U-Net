@@ -128,6 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Mohamed Ifqir - mohamedifqir01@gmail.com
-Project Link: [GitHub Repository](#)
+Mohamed Ifqir - mohamedifqir99@gmail.com
+Blog Link: [GitHub Repository](https://medifqir.vercel.app/)
 
