@@ -129,5 +129,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 Mohamed Ifqir - mohamedifqir99@gmail.com
-Blog Link: [GitHub Repository](https://medifqir.vercel.app/)
+Blog Link: [My Website](https://medifqir.vercel.app/)
 
