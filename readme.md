@@ -131,3 +131,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Mohamed Ifqir - mohamedifqir99@gmail.com
 Blog Link: [My Website](https://medifqir.vercel.app/)
 
+## Contributions are welcome
+
